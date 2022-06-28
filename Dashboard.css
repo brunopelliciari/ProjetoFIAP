@@ -1,0 +1,53 @@
+    
+        body{
+            background: rgb(143, 243, 243);
+        }
+        .row{
+            background: rgb(252, 252, 252);
+            border-radius: 30px;
+            box-shadow: 2px 2px 12px grey;
+        }
+        h1{
+            text-align:center;
+        }
+        .btn{
+            border: none;
+            outline: none;
+            height: 50px;
+            width: 100%;
+            background-color: black;
+            color: white;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .btn:hover{
+            background: white;
+            border: 1px solid;
+            color: black;
+        }
+        .card{
+            font-weight: bold;
+            height: 100%;
+        }
+        h3{
+            color: black;
+            text-align: left;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .btn1{
+            border: none;
+            outline: none;
+            height: 50px;
+            width: 100%;
+            color: black;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .btn1:hover{
+            background: black;
+            border: 1px solid;
+            color: white;
+        }
+        a {
+            color: inherit;
+          }
